@@ -1,7 +1,8 @@
-body{background: #fefefe}
+body{background: #E8EEF2; font-family:"Comic Sans MS", cursive, sans-serif}
 h2{color: #1640AA}
-.mainHeader{color: darkorange; font-size: 32px}
-.sectionHeader{background: hotpink}
-#realizacje p{color: green}
-html body p{color: red;}
-.aboutMe{color: blue;}
+.mainHeader{color: #508991; font-size: 42px; right: 10px; color: #D81E5B; align-content: flex-end;}
+.sectionHeader{color: #508991; max-width: 700px; margin: 20px auto;}
+.navigationpanel{color: #331832; background-color: #D81E5B; position:fixed; width: 100%;}
+.topbutton{position:fixed; bottom: 10px; right: 10px}
+html body p{color: #37393A ;max-width: 700px; margin: 10px auto;}
+.coverphoto{width: 100%; height: 100%;}
