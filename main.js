@@ -10,3 +10,9 @@ const paragraphs = document.querySelectorAll('p')
 console.log(paragraphs);
 
 console.log(paragraphs[0]);
+
+console.log(mainHeader.innerHTML);
+
+const paragraph__JS = document.querySelector('.paragraph__JS')
+console.log(paragraph__JS.innerHTML);
+paragraph__JS.innerHTML='Zmiany, zmiany'
